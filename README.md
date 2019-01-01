@@ -1,4 +1,5 @@
-# merge midi tracks in python
+# merge midi file as tracks in python
+Merge two midi file into a single file with two tracks.
 
 ## Install dependencies
 `
