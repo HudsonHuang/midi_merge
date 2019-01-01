@@ -31,4 +31,5 @@ def merge(mid_1_path, mid_2_path, mid_output_path, bpm=120):
     midx.ticks_per_beat  = bpm*2
     midx.save(mid_output_path)
 
-merge('chrods.mid', 'drum.mid', 'new_song.mid', bpm=120)
+if __name__ == "__main__":
+    merge('chrods.mid', 'drum.mid', 'new_song.mid', bpm=120)
