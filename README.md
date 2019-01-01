@@ -1,6 +1,6 @@
-# merge midi tracks with python
+# merge midi tracks in python
 
-## Install
+## Install dependencies
 `
 pip install midiutil mido
 `
