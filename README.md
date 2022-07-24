@@ -6,6 +6,7 @@ Merge two midi file into a single file with two tracks.
 pip install midiutil mido
 `
 
+
 ## Usage
 `
 from merge_midi import merge  
